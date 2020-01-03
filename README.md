@@ -35,7 +35,7 @@ Once repository files have been cloned/downloaded to your localhost, Please use 
 
 ---
 
-## Teting the Service
+## Testing the Service
 
 Now that our service is up and running, let's test the functionality with some URL's, I'm using curl to pass POST method to the service, you can use any app or command that you're familier with,
 
