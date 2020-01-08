@@ -5,6 +5,7 @@
 2. [Any Browser](https://www.google.com/chrome/browser/desktop/index.html) to view the response for GET method
 3. [Postman](https://www.getpostman.com/downloads) or [Curl](https://curl.haxx.se/download.html) to push data through POST method for uploading to Imgur
 4. [Git](https://git-scm.com/downloads) (Optional)
+5. Update the auth.ini file with your imgur secret keys before running the application
 
 ## Building Docker Image 
 
@@ -68,13 +69,3 @@ Now that our service is up and running, let's test the functionality with some U
 
 *Note: I've deleted already uploaded imgur images as part of this testing from my profile, as the service directly uploads images to my user profile.*
 
----
-
-## Clone a repository
-
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
-
-1. You'll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you'd like to and then click **Clone**.
-4. Open the directory you just created to view repository files.
