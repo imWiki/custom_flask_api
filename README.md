@@ -1,5 +1,5 @@
 
-## Pre-Requistes 
+## Pre-Requisites 
 
 1. [Docker](https://www.docker.com/products/docker-desktop) 
 2. [Any Browser](https://www.google.com/chrome/browser/desktop/index.html) to view the response for GET method
